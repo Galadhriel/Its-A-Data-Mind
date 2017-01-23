@@ -1,2 +1,2 @@
 # Its-A-Data-Mind
-Database Systems Class Spring 2017
+Database Management Class Spring 2017
